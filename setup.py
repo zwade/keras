@@ -24,7 +24,7 @@ and is distributed under the MIT license.
 '''
 
 setup(name='Keras',
-      version='2.2.2',
+      version='2.2.3',
       description='Deep Learning for humans',
       long_description=long_description,
       author='Francois Chollet',
